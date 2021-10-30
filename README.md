@@ -1,2 +1,2 @@
-# ShoppingApp
-A ecommerce shopping app using react native
+# Shopping App
+An e-commerce shopping app using react native
